@@ -1,4 +1,4 @@
-# sambast_sample
+# sembast_sample
 
 A new Flutter project.
 
